@@ -1,2 +1,2 @@
-# Python-Projects
-Here i my simple python code.
+# PyProject-EmailSlicer
+Here is my simple python code.
